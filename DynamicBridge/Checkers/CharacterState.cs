@@ -13,4 +13,5 @@ public enum CharacterState
     In_combat,
     Dead,
     Crafting,
+    Weapon_drawn,
 }
